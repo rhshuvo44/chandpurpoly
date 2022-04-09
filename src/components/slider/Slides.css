@@ -1,0 +1,11 @@
+.slider{
+    padding: 0px;
+    margin-bottom: -7px;
+}
+.slides{
+    width: 100% !important;
+    height: 200px;
+}
+.slide-img{
+   height: auto;
+}
