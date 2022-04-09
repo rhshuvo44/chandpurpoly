@@ -1,0 +1,22 @@
+.notic-section{
+    background-color: #fff;
+    
+}
+
+.notic-board{
+    border: 1px solid #CCCCCC;
+    padding: 20px;
+}
+.notic-board hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+.notic-board ul li{
+    list-style: none;
+}
+.notic-board ul li a{
+   font-size: 16px;
+    line-height: 20px;
+}
